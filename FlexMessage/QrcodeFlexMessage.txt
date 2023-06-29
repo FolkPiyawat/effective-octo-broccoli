@@ -1,0 +1,52 @@
+{
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "baseline",
+    "contents": [
+      {
+        "type": "text",
+        "text": "QRCode ของคุณ",
+        "size": "xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFFFFF"
+      }
+    ],
+    "backgroundColor": "#1AE65B"
+  },
+  "body": {
+    "type": "box",
+    "layout": "baseline",
+    "contents": [
+      {
+        "type": "text",
+        "text": "วันที่ / เวลา :",
+        "size": "sm",
+        "flex": 1,
+        "align": "center",
+        "margin": "none"
+      },
+      {
+        "type": "text",
+        "text": "วันที่ 31 เวลา 8.30 - 10.30",
+        "flex": 2,
+        "size": "sm",
+        "color": "#696969",
+        "align": "center"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+        "margin": "xxl",
+        "align": "center"
+      }
+    ]
+  }
+}

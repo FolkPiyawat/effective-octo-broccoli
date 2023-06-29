@@ -1,0 +1,124 @@
+{
+  "type": "bubble",
+  "direction": "ltr",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รายละเอียดการจองห้อง",
+        "weight": "bold",
+        "size": "lg",
+        "align": "center",
+        "contents": []
+      }
+    ]
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2022/07/26/XkaDzn.png",
+    "size": "full",
+    "aspectRatio": "1.51:1",
+    "aspectMode": "fit"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Room 1",
+        "weight": "bold",
+        "size": "lg",
+        "align": "center",
+        "contents": []
+      },
+      {
+        "type": "separator",
+        "margin": "md",
+        "color": "#FFFFFFFF"
+      },
+      {
+        "type": "text",
+        "text": "รหัสผู้จอง",
+        "weight": "bold",
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "62543206024-6",
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "625543206036-0",
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "62543206040-2",
+        "contents": []
+      },
+      {
+        "type": "separator",
+        "margin": "md",
+        "color": "#FFFFFFFF"
+      },
+      {
+        "type": "text",
+        "text": "รายชื่อผู้จอง",
+        "weight": "bold",
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "นายวรปรัชญ์ ปัญญาโส",
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "นายปิยะวัตร สุวรส",
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "นายภูมิธนิศวร์ ชุ่มชื่น",
+        "contents": []
+      },
+      {
+        "type": "separator",
+        "margin": "md",
+        "color": "#FFFFFFFF"
+      },
+      {
+        "type": "text",
+        "text": "ช่วงเวลาในการจอง",
+        "weight": "bold",
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "ช่วงเวลา 8.30 น. - 10.30 น.",
+        "contents": []
+      },
+      {
+        "type": "separator",
+        "margin": "md",
+        "color": "#FFFFFFFF"
+      },
+      {
+        "type": "text",
+        "text": "QR code สำหรับเข้าห้อง",
+        "weight": "bold",
+        "align": "center",
+        "contents": []
+      },
+      {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2022/07/23/X4dFqZ.jpg",
+        "size": "xl"
+      }
+    ]
+  }
+}

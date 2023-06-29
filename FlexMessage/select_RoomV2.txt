@@ -1,0 +1,378 @@
+{
+  "type": "bubble",
+  "direction": "ltr",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2022/07/26/XkaDzn.png",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "กรุณาเลือกห้องที่ต้องการ",
+        "weight": "bold",
+        "size": "lg",
+        "align": "center",
+        "contents": []
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เลข 1 คือเวลา : 08:30 - 10:30",
+            "margin": "none",
+            "size": "sm",
+            "align": "center",
+            "color": "#999999"
+          },
+          {
+            "type": "text",
+            "text": "เลข 2 คือเวลา : 10:30 - 12:30",
+            "margin": "none",
+            "size": "sm",
+            "align": "center",
+            "color": "#999999"
+          },
+          {
+            "type": "text",
+            "text": "เลข 3 คือเวลา : 12:30 - 14:30",
+            "margin": "none",
+            "size": "sm",
+            "align": "center",
+            "color": "#999999"
+          },
+          {
+            "type": "text",
+            "text": "เลข 4 คือเวลา : 14:30 - 16:30",
+            "margin": "none",
+            "size": "sm",
+            "align": "center",
+            "color": "#999999"
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Room 1",
+                    "weight": "regular",
+                    "size": "md",
+                    "align": "center",
+                    "gravity": "center",
+                    "contents": [],
+                    "margin": "sm"
+                  }
+                ],
+                "spacing": "none",
+                "paddingAll": "none",
+                "paddingStart": "none",
+                "flex": 0
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "message",
+                      "label": "1",
+                      "text": "Room 1 , 08:30 - 10:30"
+                    },
+                    "style": "primary",
+                    "margin": "sm"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "message",
+                      "label": "2",
+                      "text": "Room 1 , 10:30 - 12:30"
+                    },
+                    "style": "primary",
+                    "margin": "sm"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "message",
+                      "label": "3",
+                      "text": "Room 1 , 12:30 - 14:30"
+                    },
+                    "margin": "sm",
+                    "style": "primary"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "message",
+                      "label": "4",
+                      "text": "Room 1 , 14:30 - 16:30"
+                    },
+                    "margin": "sm",
+                    "style": "primary"
+                  }
+                ],
+                "margin": "sm"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "sm",
+            "color": "#FFFFFFFF"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Room 2",
+                    "weight": "regular",
+                    "size": "md",
+                    "align": "center",
+                    "gravity": "center",
+                    "contents": [],
+                    "margin": "sm"
+                  }
+                ],
+                "flex": 0
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "message",
+                      "label": "1",
+                      "text": "Room 2 , 08:30 - 10:30"
+                    },
+                    "style": "primary",
+                    "margin": "sm"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "message",
+                      "label": "2",
+                      "text": "Room 2 , 10:30 - 12:30"
+                    },
+                    "style": "primary",
+                    "margin": "sm"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "message",
+                      "label": "3",
+                      "text": "Room 2 , 12:30 - 14:30"
+                    },
+                    "margin": "sm",
+                    "style": "primary"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "message",
+                      "label": "4",
+                      "text": "Room 2 , 14:30 - 16:30"
+                    },
+                    "margin": "sm",
+                    "style": "primary"
+                  }
+                ],
+                "margin": "sm"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "sm",
+            "color": "#FFFFFFFF"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Room 3",
+                    "weight": "regular",
+                    "size": "md",
+                    "align": "center",
+                    "gravity": "center",
+                    "contents": [],
+                    "margin": "sm"
+                  }
+                ],
+                "flex": 0
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "message",
+                      "label": "1",
+                      "text": "Room 3 , 08:30 - 10:30"
+                    },
+                    "style": "primary",
+                    "margin": "sm"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "message",
+                      "label": "2",
+                      "text": "Room 3 , 10:30 - 12:30"
+                    },
+                    "style": "primary",
+                    "margin": "sm"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "message",
+                      "label": "3",
+                      "text": "Room 3 , 12:30 - 14:30"
+                    },
+                    "margin": "sm",
+                    "style": "primary"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "message",
+                      "label": "4",
+                      "text": "Room 3 , 14:30 - 16:30"
+                    },
+                    "margin": "sm",
+                    "style": "primary"
+                  }
+                ],
+                "margin": "sm"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "sm",
+            "color": "#FFFFFFFF"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Room 4",
+                    "weight": "regular",
+                    "size": "md",
+                    "align": "center",
+                    "gravity": "center",
+                    "contents": [],
+                    "margin": "sm"
+                  }
+                ],
+                "flex": 0
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "message",
+                      "label": "1",
+                      "text": "Room 4 , 08:30 - 10:30"
+                    },
+                    "style": "primary",
+                    "margin": "sm"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "message",
+                      "label": "2",
+                      "text": "Room 4 , 10:30 - 12:30"
+                    },
+                    "style": "primary",
+                    "margin": "sm"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "message",
+                      "label": "3",
+                      "text": "Room 4 , 12:30 - 14:30"
+                    },
+                    "margin": "sm",
+                    "style": "primary"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "message",
+                      "label": "4",
+                      "text": "Room 4 , 14:30 - 16:30"
+                    },
+                    "margin": "sm",
+                    "style": "primary"
+                  }
+                ],
+                "spacing": "none",
+                "margin": "sm"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
